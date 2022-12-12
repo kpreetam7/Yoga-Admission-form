@@ -17,6 +17,7 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 Note: Since, I was not able to get any suitable platform to deploy django as a backend. Hence, I have deployed React form on vercel and added the screenshot of working of backend on Local server below. 
+
 (i) After validating the user, if returns true, payment is initiated and MakePayment() returns Payment completed and shows ("Payment completed successfully).
 ![img1](https://user-images.githubusercontent.com/70884153/207120515-914b5d5a-32fd-455b-be2b-a05c6dfaa5cc.jpeg)
 
