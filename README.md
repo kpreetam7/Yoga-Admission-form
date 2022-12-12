@@ -24,5 +24,7 @@ Note: Since, I was not able to get any suitable platform to deploy django as a b
 (ii) If user validation returns true, then alert shows, ("Error in Payment")
 ![img2](https://user-images.githubusercontent.com/70884153/207120832-219e2682-0a89-4cb4-93ed-5c01ff9c8ace.jpeg)
 
+
 ER Diagram for Database and Table used:
+
 ![erd](https://user-images.githubusercontent.com/70884153/207128680-fd59cc4e-de3d-45b9-9829-4ca76d4808e2.jpg)
